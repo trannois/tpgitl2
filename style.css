@@ -1,3 +1,11 @@
-h1 {
- color: red ;
+hr {
+ color: blue;
 }
+
+entete {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;  
+}
+
+.intro {
+}  
